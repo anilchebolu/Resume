@@ -1,0 +1,181 @@
+ANIL KUMAR CHEBOLU
+
+141 Del Medio Ave
+Apt # 128
+Mountain View, CA-94040
+USA
+650-559-0241 (Res)
+650-565-4414 (Off)
+                 650-346-2645 (Cell) Email: ch_anil@hotamil.com
+
+
+Experience Summary
+
+* Around 5+ years of experience in Software Development 
+* Expertise in C, C++, VC++, MFC, COM/D-COM under Windows NT and UNIX.
+* Knowledge of Windows 2000, Netscape Fast-track server, Java, JavaScript, HTML, DHTML, XML, Perl, COBOL and MS-SQL
+* Tools that I have worked with are Visual Studio, Rational Rose, Visual Source safe and Vantive issue tracking system, Site scope.
+
+
+Educational Qualifications
+
+* Master of Computer Applications (M.C.A) from Bharathidasan University.
+* O Level degree from Department of Electronics (DOE), India.
+* Honors diploma in Systems management from NIIT, India.
+
+
+Employment Details
+
+* Worked as Software Engineer in Cybermate Infotek limited in Hyderabad, India from May 96 to June 98
+* Worked as Software Engineer in Infotech Enterprises Limited in Hyderabad, India from July 98 to June 99 
+* Worked as Senior Software Engineer in Kindle Systems Pvt. Ltd in Bangalore, India from June 99 to Nov 99.
+* Currently working as a Software Consultant for MyWay.com in California from Nov 99 - till date through R. Systems Inc.
+
+
+
+
+
+
+Work Experience
+
+Projects
+
+Product		: Home Base
+Client			: MyWay.com/Zip2
+Operating System	: Windows NT 4.0
+Software		: Visual C++ 6.0, MFC, SQL Server 7.0, DB libraries, VSS, Netscape Fast Track Server 2.01, Perl, HTML and Vantive 7.0
+Team Size		: 20
+Duration		: Nov-99 to till date
+
+Description		:
+HomeBase is a comprehensive, customizable software platform that provides portal solutions for media based organizations like New York Today, Ctnow, Houston chronicle, Onwisconsin and Telecommunication organization Bellsouth. Portal services are to provide Business directory, Maps and directions, Arts & Entertainment, local sports, weather, stocks etc. The interesting thing with this product is, websites can be hosted easily, quickly with maximum customization.
+
+Product architecture: 
+HomeBase product serves users requests though browser’s. Browser sends request to Netscape fast track server. Server calls appropriates DLLs using URL redirection, process the request interacting with files servers for images and MS-SQL server for data using db libraries and generates dynamic HTML pages using custom templates. These pages are sent back to browser as request output.
+
+Projects that I have worked on are
+* Home Base releases 1.3, 2.1, 2.5 and 3.0 for Arts and Entertainment.
+* Context setting migration from file system to database.
+* Local sports.
+* Personalization movies and events
+* SQL 7.0 migration.
+* User Event calendar.
+
+My Role as a Team lead:
+* Designing and developing features for new RFE’ s
+* Doing code reviews as a part of Code review team.
+* Handling live production issues.
+* Training new members in the team and launch team to implement new features.
+* Modules that I am responsible are Core, A&E, and Sports.
+* Interacting with various departments like marketing, Production control, Launch and Database.
+
+
+
+Project Title		: B@nk.power  D-COM Services
+Client			: Komercini Bank in Czechoslovakia
+Operating System	: Windows NT/95
+Software		: VC++ 5.0, ATL-COM.
+Team size		: 8
+Duration		: July 99 to Nov 99
+
+Description		: 
+This is a tool used for designing and configuring the banking transactions. It uses the D-COM services written in the form of servers to process the transaction. The DM-DCOM server which stands for Data manager D-COM is used to access the btrieve database. The application is supported for both Windows NT/95. 
+
+My Role:
+* Wrote ATL-COM services on Windows NT for Banking transactions.
+* Developing the Data manager D-COM server for accessing the btrieve database for all banking transactions.
+* Testing the banking financial transactions using the online and offline testing tools
+
+
+Project Title		: HG-PPT Translator
+Client			: Software Publishing Corporation
+Operating System	: Windows NT/UNIX
+Software		: VC++ 5.0
+Team Size		: 6
+Duration 		: Feb 99 to June 99
+
+Description		:
+This project deals with the creation of two DLL applications, which are used for importing and exporting the Harvard Graphics presentation files to Power Point files. The process involves in understating the file formats of Harvard Graphics from the existing source code, and Power point format that is published in the Microsoft Development Network, and mapping them. These two DLLs have to work independently. 
+
+My Role:
+* Studying the Harvard graphics format and documenting them
+* Coding for the conversion of Harvard graphics to PowerPoint
+* Integrating with the main Harvard graphics application.
+
+Project Title		: Net Plot
+Client			: Axiom International U.S.A
+Operating System	: Windows NT/95
+Software		: VC++ and C
+Duration		: Oct 98 to Jan 99
+Team Size		: 3
+
+Description		:
+As the name of the project says it is used for network plotting. This software helps in the efficient plotting of design files. The user can select the border of the design files by specifying the output primitives like level, color, style and type of element. When used in the network mode it allows the users to send the plot requests to the server location during which it copies the design files and configuration files to the server location. The server continuously checks for the plot requests and processes the requests and generates the log information.
+
+My Role:
+* Implementing the new features requested by the end-users basing on priorities, and maintenance.
+* Developing the code fragment that sends the design files to the NetPlot server.
+* Testing the issues in NetPlot.
+
+Project Title		: Stereoscopic Model
+Client			: Axiom International U.S.A
+Operating System	: Windows NT
+Software		: C 
+Team Size		: 1
+Duration		: July 98 to Sep 98
+
+Description		:
+The aim of this project is to build a stereoscopic model by placing elements in a design file signifying flight lines and photo centers. These flight lines and photo centers cover any closed region in a design file with an attached digital ‘quad ‘ as a reference file. Finally it prints a report containing the information like Number of flight lines, Number of photo centers, Number of models, Distance between photo centers and flight lines and the total length of the flight lines. This application is used for the survey purpose by the U.S Geographic service.
+
+My Role:
+
+* Designed mathematical algorithms for laying the flight lines and photo centers
+* Developing the interface application for MicroStation cad tool using MDL
+* Testing the application using different models.
+
+Project Title		: Payroll for Hanuman Co-Operative sugars
+Client			: Hanuman Co-Operative sugars
+Operating System	: Windows NT/95
+Software		: VC++, ODBC with ORACLE
+Clients			: Hanuman Co-Operative sugars
+Team Size		: 5
+Duration		: Jan 98 to June 98
+
+Description		:	
+This is a general payroll package, which incorporates features for keeping track of employee’s related information like personal, their earnings, deductions, loans and leaves thus leading to a full-fledged information in the pay slip. Various types of reports like acquisition register, recovery statements, and bank statements for crediting the salary, attendance register and payslips are generated.
+
+My Role:
+* Developing the interface screens for maintaining master information about employees and monthly pay information
+
+
+Project Title		: Volz (Developing a Front-end)
+Client			: Brain Trust consulting Germany
+Operating System	: Windows NT, SCO-UNIX and shell scripting
+Software		: VC++
+Team Size		: 4
+Duration		: Mar 97 to Dec 97
+
+Description		:
+Brain Trust consulting is a software development company having application software for the operations of advertising agencies. The software takes care of different areas of an advertising agency. The company sells the system in the German market. The system was a character user interface. The aim of this project is to build a new user interface called Mask Interpreter, which gives a windows look and brings the client/server technology into the system. The screens, reports and menus were generated from the ASCII text files called mask files, which are sent by the COBOL from the UNIX, where the total functionality lies. The interface is created using Visual C++ through the dynamic object creation, which reads the mask file and designs the screen. The communication between the windows (Client) and UNIX (server) is implemented through TCP/IP and two interface programs at each place. Unix server creates a process each time it listens to a client and the created process communicates with COBOL program using message queues (Inter process communication). Unix server creates a process each time it listens to a client and the created process communicates with COBOL program using message queues (Inter process communication). 
+
+
+MyRole:
+* Developing the mask interpreter that generates screens, reports and menus in windows using VC++  MFC dynamic object creation. 
+* Implementing the functionality existing in the old system.
+
+Project Title		: HMS
+Clients			: Holiday in Krishna, Hotel Minerva & Hotel Allnear
+Operating System	: UNIX 
+Software		: C, Btrieve file manager
+Team Size		: 5
+Duration		: May 96 to Feb 97
+
+Description		:
+This is hospitality software, which covers the various places of a Hotel like restaurants, reception, house keeping, night auditing, guest history etc. The system handles data through special structures using screen builders which are routines written in C using Vitamin C and a similar interface is written for UNIX which uses curses for screen handling. The system is made to work in both real and protected modes by software called blinker. Data is stored on the server and is managed using Btrieve file manager, which uses B-Tree indexes.
+
+My Role:
+* Developing the Front office management system.
+* Implementing the module in client places Hotel Minerva & Hotel Allnear.
+                  
+
+
